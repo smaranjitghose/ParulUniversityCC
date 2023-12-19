@@ -32,7 +32,7 @@
 | Sl No | Topic | Practice Problems |
 |------|--------|----------------|
 |  | Fundamentals of Python | |
-|  | Arrays | |
+|  | Arrays | [First Missing Positive](https://leetcode.com/problems/first-missing-positive)|
 |  | Searching - Linear Search, Binary Search | |
 |  | Linked List | |
 | | Stacks and Queues | |
