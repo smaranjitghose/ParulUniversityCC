@@ -32,7 +32,8 @@
 | Sl No | Topic | Practice Problems |
 |------|--------|----------------|
 |  | Fundamentals of Python | |
-|  | Arrays | [First Missing Positive](https://leetcode.com/problems/first-missing-positive)|
+|  | Strings | [To Lower Case](https://leetcode.com/problems/to-lower-case), [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | 
+|  | Arrays | [First Missing Positive](https://leetcode.com/problems/first-missing-positive)| 
 |  | Searching - Linear Search, Binary Search | |
 |  | Linked List | |
 | | Stacks and Queues | |
