@@ -34,7 +34,7 @@
 |  | Fundamentals of Python | |
 |  | Strings | [To Lower Case](https://leetcode.com/problems/to-lower-case), [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/), [Shuffle String](https://leetcode.com/problems/shuffle-string) | 
 |  | Arrays | [First Missing Positive](https://leetcode.com/problems/first-missing-positive)| 
-|  | Searching - Linear Search, Binary Search | |
+|  | Searching - Linear Search, Binary Search | [First Bad Version](https://leetcode.com/problems/first-bad-version/),[Sqrt(x)](https://leetcode.com/problems/sqrtx/), [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/), [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/), [Arranging Coins](https://leetcode.com/problems/arranging-coins/), [Find Smallest Letter Greater Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)], [Kth Postive Number](https://leetcode.com/problems/kth-missing-positive-number/)|
 |  | Linked List | |
 | | Stacks and Queues | |
 | | Trees | ||
