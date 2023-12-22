@@ -41,6 +41,12 @@
 | | Heaps | | |
 | | Hashing | |
 
+## Quizes
+
+|Quiz No | Url | Date|
+|--------|------|------|
+|2| [Click Here](https://forms.gle/atK9gWk4ztiUoGNJ8) | 24-12-2023 16:40 pm IST |
+
 
            
 
