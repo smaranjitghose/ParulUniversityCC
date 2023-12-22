@@ -35,8 +35,7 @@
 |  | Strings | [To Lower Case](https://leetcode.com/problems/to-lower-case), [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/), [Shuffle String](https://leetcode.com/problems/shuffle-string) | 
 |  | Arrays | [First Missing Positive](https://leetcode.com/problems/first-missing-positive)| 
 |  | Searching - Linear Search, Binary Search | [First Bad Version](https://leetcode.com/problems/first-bad-version/),[Sqrt(x)](https://leetcode.com/problems/sqrtx/), [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/), [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/), [Arranging Coins](https://leetcode.com/problems/arranging-coins/), [Find Smallest Letter Greater Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/), [Kth Postive Number](https://leetcode.com/problems/kth-missing-positive-number/), [Search Insert Position](https://leetcode.com/problems/search-insert-position/), [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/), [Count Negative Numbers in a Sorted Matrix
-](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/), [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/), [Intersection of Two Arrays II
-](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|
+](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/), [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/), [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|
 |  | Linked List | |
 | | Stacks and Queues | |
 | | Trees | ||
