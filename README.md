@@ -39,17 +39,18 @@
 
 |Sl No|Problem|Solution(s)|
 |-----|-------|-----------|
-|1|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/) ||
-|2| [Running Sum of a 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/description/) ||
-|3| [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/)||
-|4| [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/) | |
-|5| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/) | |
-|6| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/) ||
-|7| [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)||
-|8| [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/) | |
-|9| [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | |
-|10| [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/) | |
-|11| [Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | |
+|1|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/description/) ||
+|2|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/) ||
+|3| [Running Sum of a 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/description/) ||
+|4| [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/)||
+|5| [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/) | |
+|6| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/) | |
+|7| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/) ||
+|8| [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)||
+|9| [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/) | |
+|10| [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | |
+|11| [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/) | |
+|12| [Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | |
 
 
 ### Linear Search and Binary Search
