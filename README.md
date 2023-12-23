@@ -57,7 +57,7 @@
 
 |Sl No|Problem|Solution(s)|
 |-----|-------|-----------|
-|1| Ceiling of a Number in a Sorted Array | |
+|1| [Ceiling of a Number in a Sorted Array](https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/) | |
 |2| Floor of a Number in a Sorted Array | |
 |3 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) | |
 |4|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | |
