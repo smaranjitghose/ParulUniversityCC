@@ -39,6 +39,16 @@
 
 |Sl No|Problem|Solution(s)|
 |-----|-------|-----------|
+|1|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/) ||
+|2| [Running Sum of a 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/description/) ||
+|3| [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/)||
+|4| [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/) | |
+|5| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/) | |
+|6| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/) ||
+|7| [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | |
+|8| [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/) | |
+|9| [Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | |
+
 
 ### Linear Search and Binary Search
 
@@ -54,16 +64,13 @@
 |8|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/)||
 |9| [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)||
 |10| [Binary Search](https://leetcode.com/problems/binary-search/) | |
-|11| [Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) ||
-|12|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)||
-|13|[Arranging Coins](https://leetcode.com/problems/arranging-coins/description/)||
-|14| [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) ||
-|15| [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) ||
-|16| [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)
-|17|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/) ||
-|18| [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | |
-|19| [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/description/) ||
-|20| [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/)||
+|11|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)||
+|12|[Arranging Coins](https://leetcode.com/problems/arranging-coins/description/)||
+|13| [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) ||
+|14| [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) ||
+|15| [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)
+|16| [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | |
+|17| [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/description/) ||
 
 ### Strings
 
