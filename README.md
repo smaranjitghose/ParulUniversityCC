@@ -60,23 +60,24 @@
 |1| Ceiling of a Number in a Sorted Array | |
 |2| Floor of a Number in a Sorted Array | |
 |3 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) | |
-|3|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | |
-|4|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) ||
-|5| [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/description/) ||
-|6|[Check if N and it's Double Exists](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/)||
-|7|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) ||
-|8|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) ||
-|10|[Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/) ||
-|11|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/)||
-|12| [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)||
-|13| [Binary Search](https://leetcode.com/problems/binary-search/) | |
-|14|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)||
-|15|[Arranging Coins](https://leetcode.com/problems/arranging-coins/description/)||
-|16| [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) ||
-|17| [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) ||
-|18| [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)
-|19| [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | |
-|20| [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/description/) ||
+|4| [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) ||
+|5|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | |
+|6|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) ||
+|7| [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/description/) ||
+|8|[Check if N and it's Double Exists](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/)||
+|9|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) ||
+|10|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) ||
+|11|[Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/) ||
+|12|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/)||
+|13| [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)||
+|14| [Binary Search](https://leetcode.com/problems/binary-search/) | |
+|15|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)||
+|16|[Arranging Coins](https://leetcode.com/problems/arranging-coins/description/)||
+|17| [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) ||
+|18| [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) ||
+|19| [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)
+|20| [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | |
+|21| [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/description/) ||
 
 ### Strings
 
