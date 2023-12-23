@@ -46,9 +46,10 @@
 |5| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/) | |
 |6| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/) ||
 |7| [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)||
-|7| [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | |
-|8| [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/) | |
-|9| [Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | |
+|8| [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/) | |
+|9| [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | |
+|10| [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/) | |
+|11| [Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | |
 
 
 ### Linear Search and Binary Search
