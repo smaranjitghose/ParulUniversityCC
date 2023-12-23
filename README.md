@@ -59,6 +59,7 @@
 |-----|-------|-----------|
 |1| Ceiling of a Number in a Sorted Array | |
 |2| Floor of a Number in a Sorted Array | |
+|3 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) | |
 |3|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | |
 |4|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) ||
 |5| [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/description/) ||
