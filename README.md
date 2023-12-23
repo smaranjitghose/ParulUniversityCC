@@ -28,18 +28,82 @@
 
 -->
 
+## Course Schedule
 
-| Sl No | Topic | Practice Problems 1 | Practice Problems 2 |
-|------|--------|----------------| --------------|
-|  | Fundamentals of Python | | |
-|  | Strings | [To Lower Case](https://leetcode.com/problems/to-lower-case), [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/), [Shuffle String](https://leetcode.com/problems/shuffle-string) |  |
-|  | Arrays | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/), [First Missing Positive](https://leetcode.com/problems/first-missing-positive)| |
-|  | Searching - Linear Search, Binary Search | [First Bad Version](https://leetcode.com/problems/first-bad-version/),[Sqrt(x)](https://leetcode.com/problems/sqrtx/), [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/), [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/), [Arranging Coins](https://leetcode.com/problems/arranging-coins/), [Find Smallest Letter Greater Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/), [Kth Postive Number](https://leetcode.com/problems/kth-missing-positive-number/), [Search Insert Position](https://leetcode.com/problems/search-insert-position/), [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/), [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/), [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/), [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/), [Fair Candy](https://leetcode.com/problems/fair-candy-swap/), [Check if N and it's Double Exists](https://leetcode.com/problems/check-if-n-and-its-double-exist/), [](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/), [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/), [Binary Search](https://leetcode.com/problems/binary-search/)| |
-|  | Linked List | | |
-| | Stacks and Queues | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/), [Valid Parantheses](https://leetcode.com/problems/valid-parentheses/description/),[Min Stack](https://leetcode.com/problems/min-stack/description/), [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/),[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/description/), [Reverse First K elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1), [Delete Middle Element of a Stack](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1), [Inorder Traversal(Iterative)](https://practice.geeksforgeeks.org/problems/inorder-traversal-iterative/1),[Preorder Traversal(Iterative)](https://practice.geeksforgeeks.org/problems/preorder-traversal-iterative/1),[Flood Fill](https://leetcode.com/problems/flood-fill/description/),[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)| |
-| | Trees | ||
-| | Heaps | | |
-| | Hashing | | |
+### Fundamentals of Python
+
+|Sl No|Problem|Solution(s)|
+|-----|-------|-----------|
+
+### Arrays / Lists
+
+|Sl No|Problem|Solution(s)|
+|-----|-------|-----------|
+
+### Linear Search and Binary Search
+
+|Sl No|Problem|Solution(s)|
+|-----|-------|-----------|
+|1|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | |
+|2|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) ||
+|3| [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/description/) ||
+|4|[Check if N and it's Double Exists](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/)||
+|5|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) ||
+|6|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) ||
+|7|[Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/) ||
+|8|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/)||
+|9| [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)||
+|10| [Binary Search](https://leetcode.com/problems/binary-search/) | |
+|11| [Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) ||
+|12|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)||
+|13|[Arranging Coins](https://leetcode.com/problems/arranging-coins/description/)||
+|14| [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) ||
+|15| [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) ||
+|16| [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)
+|17|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/) ||
+|18| [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | |
+|19| [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/description/) ||
+|20| [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/description/)||
+
+### Strings
+
+|Sl No|Problem|Solution(s)|
+|-----|-------|-----------|
+
+### Patterns
+
+|Sl No|Problem|Solution(s)|
+|-----|-------|-----------|
+
+### LinkedLists
+
+|Sl No|Problem|Solution(s)|
+|-----|-------|-----------|
+
+### Stacks and Queues
+
+|Sl No|Problem|Solution(s)|
+|-----|-------|-----------|
+|1|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | |
+|2|[Valid Parantheses](https://leetcode.com/problems/valid-parentheses/description/) | |
+|3|[Min Stack](https://leetcode.com/problems/min-stack/description/) | |
+|4|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/) | |
+|5| [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/description/) | |
+|6| [Reverse First K elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) | |
+|7| [Delete Middle Element of a Stack](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1) | |
+|8| [Inorder Traversal(Iterative)](https://practice.geeksforgeeks.org/problems/inorder-traversal-iterative/1) | |
+|9| [Preorder Traversal(Iterative)](https://practice.geeksforgeeks.org/problems/preorder-traversal-iterative/1) | |
+|10| [Flood Fill](https://leetcode.com/problems/flood-fill/description/) | | 
+|11 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | |
+
+
+
+
+### Trees
+
+### Heaps
+
+### Hashing
 
 ## Quizes
 
