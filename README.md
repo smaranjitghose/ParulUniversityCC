@@ -45,6 +45,7 @@
 |4| [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/) | |
 |5| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/) | |
 |6| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/) ||
+|7| [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)||
 |7| [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | |
 |8| [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/) | |
 |9| [Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | |
