@@ -60,8 +60,8 @@
 |1| Ceiling of a Number in a Sorted Array | |
 |2| Floor of a Number in a Sorted Array | |
 |3 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) | |
-|4| [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) ||
-|5|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | |
+|4|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | |
+|5| [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) ||
 |6|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) ||
 |7| [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/description/) ||
 |8|[Check if N and it's Double Exists](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/)||
