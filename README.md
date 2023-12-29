@@ -119,11 +119,6 @@
 
 ### Hashing
 
-## Quizes
-
-|Quiz No | Url | Date|
-|--------|------|------|
-|1| [Click Here](https://forms.gle/atK9gWk4ztiUoGNJ8) | 24-12-2023 16:00 pm IST |
 
 
            
