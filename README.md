@@ -83,6 +83,32 @@
 
 |Sl No|Problem|Solution(s)|
 |-----|-------|-----------|
+|1| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | |
+|2| [Shuffle String](https://leetcode.com/problems/shuffle-string/) | |
+|3| [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | |
+|4| [Sorting the Sentence](https://leetcode.com/problems/count-items-matching-a-rule/) | |
+|5| [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) ||
+|6| [To Lower Case](https://leetcode.com/problems/to-lower-case/) | |
+|7| [Determine if String Halves are alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | |
+|8| [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | |
+|9| [Number of Strings that Appear as Substrings in word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | |
+|10| [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | |
+|11| [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | |
+|12| [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) ||
+|13| [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) || 
+|14| [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) ||
+|15| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | |
+|16| [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) ||
+|17| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) || 
+|18| [Maximum Repeating String](https://leetcode.com/problems/maximum-repeating-substring/) | |
+|19| [Check if Binary String has at most one segment of ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | |
+|20| [Merge Strings Alternatively](https://leetcode.com/problems/merge-strings-alternately/) ||
+|21| [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) ||
+|22| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) ||
+|23| [Length of the Last Word](https://leetcode.com/problems/length-of-last-word/)
+
+
+
 
 ### Patterns
 
