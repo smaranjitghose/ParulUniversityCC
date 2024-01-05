@@ -138,6 +138,17 @@
 |17| [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)| |
 |18| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | |
 |19| [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | |
+|20| [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)  | |
+|21| [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)  | |
+|22| [Rotate List](https://leetcode.com/problems/rotate-list/)  | |
+|23| [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)  | |
+|24| [LRU Cache](https://leetcode.com/problems/lru-cache/)  | |
+|25| [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)  | |
+|26| [Design Browser History](https://leetcode.com/problems/design-browser-history/)  | |
+|27| [Partition list](https://leetcode.com/problems/partition-list/)  | |
+|28| [Find first node of loop in a linked list](https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/)  | |
+|29| [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)  | |
+|30| [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)  | |
 
 
 ### Stacks and Queues
